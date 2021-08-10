@@ -1,0 +1,30 @@
+html body{
+    background-image: url("img/cover.jpg");
+}
+.navbar{
+    background-color: green;
+    color: white;
+}
+.contents{
+    margin:15% auto;
+    width: 50%;
+    display: table;
+
+}
+.btn{
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    border: 0px;
+    
+}
+.card li{
+    background-color:rgb(138, 255, 138);
+    border: solid 1px black;
+}
+.btn:hover{
+    margin-top: 20px;
+    background-color:white;
+    color: green;
+    border: 0px;
+}
